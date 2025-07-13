@@ -1,5 +1,6 @@
 <img width="503" height="269" alt="Captura de tela 2025-07-13 150506" src="https://github.com/user-attachments/assets/55dfc17a-2b35-4ebf-b0ba-bdc34006ee3d" />
 ChatGPT:
+
 ### Explicação Detalhada do Código
 
 Vamos analisar o trecho de código passo a passo:
